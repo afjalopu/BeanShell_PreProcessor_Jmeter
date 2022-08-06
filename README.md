@@ -10,4 +10,4 @@ While executed 50 concurrent requests, found 14 request got connection timeout a
 
 Summary: 
 Server can handle almost concurrent 150 API call with almost zero(0) error rate.
-Please find the details report from the attachment and let me know if you have any futher quaries.
+Please find the details report from the attachment and let me know if you have any futher quaries. 
